@@ -98,4 +98,4 @@ The dataset also lacks a reliable field to distinguish online sales from in-stor
 For a more detailed discussion of the findings and limitations, see:
 
 - [Global Electronics Retailer - Conclusion (English)](Global-Electronics-Retailer-Conclusion.md#english)
-- [Global Electronics Retailer - Conclusão (Português)](Global-Electronics-Retailer-Conclusion.md#português)
+- [Global Electronics Retailer - Conclusão (Português)](Global-Electronics-Retailer-Conclusao.md#português)
