@@ -85,15 +85,6 @@ Special attention was given to data limitations, including incomplete periods, m
 ### 4. Delivery Performance
 
 [![Delivery Performance](delivery-performance.png)](delivery-performance.png)
-## Project Conclusion
-
-The analysis provides an overview of the retailer's customer distribution, product categories, revenue trends, order volume, and delivery performance between 2016 and 2021.
-
-Although the dashboards reveal relevant patterns across these areas, some findings require cautious interpretation due to limitations in the available data.
-
-The sharp decline in revenue and order volume in 2021 may be related to an incomplete reporting period. Additionally, unusually long delivery intervals and missing delivery dates prevent the results from being treated as a reliable measure of logistical efficiency.
-
-The dataset also lacks a reliable field to distinguish online sales from in-store transactions, making a comparison of average order value by sales channel unavailable.
 
 For a more detailed discussion of the findings and limitations, see:
 
